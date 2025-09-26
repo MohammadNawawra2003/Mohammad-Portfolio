@@ -12,38 +12,6 @@ A minimalist black and white portfolio website showcasing Mohammad's experience 
 - **CV Download**: Direct download link for Mohammad's CV
 - **Contact Information**: Easy access to email, phone, and social links
 
-## Deployment Instructions
-
-### Option 1: GitHub Pages Deployment
-
-1. **Create a new repository** on GitHub (e.g., `mohammad-portfolio-new`)
-
-2. **Upload all files** from this directory to your repository:
-   - `index.html`
-   - `assets/` folder (contains CSS, JS, and images)
-   - `MohammadAlnawawrehCV.pdf`
-   - `favicon.ico`
-
-3. **Enable GitHub Pages**:
-   - Go to repository Settings
-   - Scroll to "Pages" section
-   - Select "Deploy from a branch"
-   - Choose "main" branch and "/ (root)" folder
-   - Click Save
-
-4. **Access your website** at: `https://yourusername.github.io/repository-name`
-
-### Option 2: Manual Upload to Web Hosting
-
-1. **Upload all files** to your web hosting provider's public folder (usually `public_html` or `www`)
-2. **Ensure file permissions** are set correctly (644 for files, 755 for directories)
-3. **Access your website** through your domain
-
-### Option 3: Netlify Deployment
-
-1. **Drag and drop** this entire folder to [Netlify Drop](https://app.netlify.com/drop)
-2. **Get instant deployment** with a custom URL
-3. **Optional**: Connect to GitHub for automatic deployments
 
 ## File Structure
 
