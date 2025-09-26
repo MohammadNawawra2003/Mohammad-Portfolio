@@ -35,14 +35,6 @@ mohammad-portfolio-deployment/
 - **Fonts**: System monospace fonts
 - **Responsive**: Mobile-first design approach
 
-## Customization
-
-To make changes to the website:
-
-1. **Modify content**: Edit the source files in the original React project
-2. **Rebuild**: Run `npm run build` to generate new production files
-3. **Redeploy**: Upload the new `dist/` contents to replace these files
-
 ## Browser Compatibility
 
 - Chrome (latest)
